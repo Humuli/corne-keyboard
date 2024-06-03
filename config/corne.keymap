@@ -84,10 +84,10 @@
 
         Both {
             bindings = <
-&trans  &trans  &kp LA(LC(LG(E)))  &trans  &trans  &trans    &trans  &kp C_VOL_UP      &kp C_VOLUME_DOWN  &kp K_MUTE  &trans  &trans
-&trans  &trans  &kp LA(LC(LG(S)))  &trans  &trans  &trans    &trans  &kp C_PLAY_PAUSE  &kp C_NEXT         &kp C_PREV  &trans  &trans
-&trans  &trans  &trans             &trans  &trans  &trans    &trans  &trans            &trans             &trans      &trans  &trans
-                                   &trans  &trans  &trans    &trans  &trans            &trans
+&trans  &trans  &kp LA(LC(LG(E)))  &trans  &trans  &kp LA(LC(LG(T)))    &trans  &kp K_MUTE        &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans  &trans
+&trans  &trans  &kp LA(LC(LG(S)))  &trans  &trans  &trans               &trans  &kp C_PLAY_PAUSE  &kp C_NEXT         &kp C_PREV       &trans  &trans
+&trans  &trans  &kp LA(LC(LG(X)))  &trans  &trans  &trans               &trans  &trans            &trans             &trans           &trans  &trans
+                                   &trans  &trans  &trans               &trans  &trans            &trans
             >;
         };
     };
