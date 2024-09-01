@@ -86,8 +86,8 @@
 
         Both {
             bindings = <
-&kp C_NEXT        &kp LA(LC(LG(Q)))  &kp LA(LC(LG(W)))  &kp LA(LC(LG(E)))  &kp LA(LC(LG(R)))  &kp LA(LC(LG(T)))    &kp LC(NUMBER_1)    &kp LC(NUMBER_2)  &kp LC(NUMBER_3)  &kp LC(NUMBER_4)  &kp LA(LC(LG(L)))  &kp C_VOLUME_UP
-&kp C_PREV        &trans             &none              &trans             &trans             &trans               &kp LC(LEFT_ARROW)  &trans            &trans            &kp LC(RIGHT)     &trans             &kp C_VOL_DN
+&kp C_NEXT        &kp LA(LC(LG(Q)))  &kp LA(LC(LG(W)))  &kp LA(LC(LG(E)))  &kp LA(LC(LG(R)))  &kp LA(LC(LG(T)))    &kp LC(NUMBER_1)    &kp LC(NUMBER_2)  &kp LC(NUMBER_3)  &kp LC(NUMBER_4)  &kp LC(NUMBER_5)   &kp C_VOLUME_UP
+&kp C_PREV        &kp LA(LC(LG(A)))  &kp LA(LC(LG(S)))  &kp LA(LC(LG(D)))  &kp LA(LC(LG(F)))  &kp LA(LC(LG(G)))    &kp LC(LEFT_ARROW)  &trans            &trans            &kp LC(RIGHT)     &kp LA(LC(LG(L)))  &kp C_VOL_DN
 &kp C_PLAY_PAUSE  &trans             &none              &trans             &trans             &trans               &trans              &trans            &trans            &trans            &trans             &trans
                                                         &trans             &trans             &trans               &trans              &trans            &trans
             >;
